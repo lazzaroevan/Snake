@@ -30,10 +30,11 @@ public class SnakeLauncher extends Application {
     int speed = 100;
     boolean gameover = false;
     @Override
-    public void start(Stage primaryStage) throws Exception{
+    public void start(Stage primaryStage)
+    {
         Random rand = new Random();
         Group root = new Group();
-        primaryStage.setTitle("Hello World");
+        primaryStage.setTitle("Snake");
         Scene scene = new Scene(root, 800, 510);
         primaryStage.setScene(scene);
         primaryStage.show();
@@ -68,14 +69,16 @@ public class SnakeLauncher extends Application {
             @Override
             public void handle(ActionEvent event) {
                 timeline.setRate(timeline.getCurrentRate()+1);
-                speedLabel.setText("Speed: " + (-timeline.getCurrentRate()));
+                speedLabel.setText("Speed: " + (timeline.getCurrentRate()));
             }
         });
-        speedUpButton.setOnAction(new EventHandler<ActionEvent>() {
+        slowDownButton.setOnAction(new EventHandler<ActionEvent>() {
             @Override
             public void handle(ActionEvent event) {
-                timeline.setRate(timeline.getCurrentRate()-1);
-                speedLabel.setText("Speed: " + (-timeline.getCurrentRate()));
+                if(timeline.getCurrentRate()>1) {
+                    timeline.setRate(timeline.getCurrentRate() - 1);
+                }
+                speedLabel.setText("Speed: " + (timeline.getCurrentRate()));
             }
         });
         scene.setOnKeyPressed(new EventHandler<KeyEvent>() {
@@ -96,10 +99,6 @@ public class SnakeLauncher extends Application {
                 if(keyEvent.getCode() == KeyCode.D)
                 {
                     direction =("Right");
-                }
-                if(keyEvent.getCode() ==KeyCode.SPACE)
-                {
-
                 }
             }
         });

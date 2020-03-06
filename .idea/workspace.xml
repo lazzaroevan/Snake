@@ -6,7 +6,18 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="626b2c12-8176-49ec-822c-97c1caac3b61" name="Default Changelist" comment="" />
+    <list default="true" id="626b2c12-8176-49ec-822c-97c1caac3b61" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Snake_jar/Snake.exe" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Snake_jar/Snake.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Snake_jar/Snake.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Snake_jar/Snake.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Snake_jar/launch4j.log" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Snake_jar/launch4j.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Snake/SnakeBody.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Snake/SnakeBody.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Snake/SnakeLauncher$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Snake/SnakeLauncher$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Snake/SnakeLauncher$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Snake/SnakeLauncher$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Snake/SnakeLauncher$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Snake/SnakeLauncher$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Snake/SnakeLauncher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Snake/SnakeLauncher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SnakeLauncher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SnakeLauncher.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +30,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YTETjvWwLa3HOoKY6je0shVjBc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -30,6 +45,7 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
     <configuration name="SnakeLauncher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -71,30 +87,34 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="690" y="363" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1582958487263" />
+    <state x="614" y="174" key="CommitChangelistDialog2" timestamp="1583508048584">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="614" y="174" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1583508048584" />
     <state x="740" y="334" key="FileChooserDialogImpl" timestamp="1582958390929">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="740" y="334" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1582958390929" />
-    <state width="1877" height="258" key="GridCell.Tab.0.bottom" timestamp="1583169691809">
+    <state width="1877" height="258" key="GridCell.Tab.0.bottom" timestamp="1583334371384">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="1237" height="257" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1583088581062" />
-    <state width="1877" height="258" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1583169691809" />
-    <state width="1877" height="258" key="GridCell.Tab.0.center" timestamp="1583169691809">
+    <state width="1877" height="258" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1583334371384" />
+    <state width="1877" height="258" key="GridCell.Tab.0.center" timestamp="1583334371384">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="1237" height="257" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1583088581062" />
-    <state width="1877" height="258" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1583169691809" />
-    <state width="1877" height="258" key="GridCell.Tab.0.left" timestamp="1583169691808">
+    <state width="1877" height="258" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1583334371384" />
+    <state width="1877" height="258" key="GridCell.Tab.0.left" timestamp="1583334371384">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="1237" height="257" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1583088581060" />
-    <state width="1877" height="258" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1583169691808" />
-    <state width="1877" height="258" key="GridCell.Tab.0.right" timestamp="1583169691809">
+    <state width="1877" height="258" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1583334371384" />
+    <state width="1877" height="258" key="GridCell.Tab.0.right" timestamp="1583334371384">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="1237" height="257" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1583088581062" />
-    <state width="1877" height="258" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1583169691809" />
+    <state width="1877" height="258" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1583334371384" />
     <state width="1877" height="396" key="GridCell.Tab.1.bottom" timestamp="1583093657860">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -111,18 +131,22 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="1877" height="396" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1583093657860" />
-    <state x="440" y="154" key="SettingsEditor" timestamp="1583048717253">
+    <state x="440" y="154" key="SettingsEditor" timestamp="1583184689055">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="440" y="154" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1583048717253" />
+    <state x="440" y="154" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1583184689055" />
     <state x="661" y="403" key="com.intellij.ide.util.TipDialog" timestamp="1582958200987">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="661" y="403" key="com.intellij.ide.util.TipDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1582958200987" />
-    <state x="342" y="200" key="new project wizard" timestamp="1583093599196">
+    <state x="769" y="496" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583507995053">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="342" y="200" key="new project wizard/0.0.1920.1160@0.0.1920.1160" timestamp="1583093599196" />
+    <state x="769" y="496" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1160@0.0.1920.1160" timestamp="1583507995053" />
+    <state x="-7" y="201" width="1214" height="597" key="new project wizard" timestamp="1583334368986">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="-7" y="201" width="1214" height="597" key="new project wizard/0.0.1920.1160@0.0.1920.1160" timestamp="1583334368986" />
     <state x="623" y="255" width="672" height="678" key="search.everywhere.popup" timestamp="1583029058071">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>

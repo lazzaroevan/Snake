@@ -24,3 +24,55 @@ Launcher:	C:\Program Files (x86)\Java\jre1.8.0_241\bin\javaw.exe
 Launcher args:	-jar "C:\Users\lazza\IdeaProjects\Snake\out\artifacts\Snake_jar\Snake.exe"
 Args length:	74/32768 chars
 Exit code:	0
+
+
+Version:	3.12
+CmdLine:	C:\Users\lazza\IdeaProjects\Snake\out\artifacts\Snake_jar\Snake.exe --l4j-debug
+WOW64:		yes
+Java min ver:	
+Java max ver:	
+Bundled JRE:	C:\Program Files (x86)\Java\jre1.8.0_241
+Check launcher:	C:\Program Files (x86)\Java\jre1.8.0_241\bin\javaw.exe (OK)
+Launcher:	C:\Program Files (x86)\Java\jre1.8.0_241\bin\javaw.exe
+Launcher args:	-jar "C:\Users\lazza\IdeaProjects\Snake\out\artifacts\Snake_jar\Snake.exe"
+Args length:	74/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	C:\Users\lazza\IdeaProjects\Snake\out\artifacts\Snake_jar\Snake.exe --l4j-debug
+WOW64:		yes
+Java min ver:	
+Java max ver:	
+Bundled JRE:	C:\Program Files (x86)\Java\jre1.8.0_241
+Check launcher:	C:\Program Files (x86)\Java\jre1.8.0_241\bin\javaw.exe (OK)
+Launcher:	C:\Program Files (x86)\Java\jre1.8.0_241\bin\javaw.exe
+Launcher args:	-jar "C:\Users\lazza\IdeaProjects\Snake\out\artifacts\Snake_jar\Snake.exe"
+Args length:	74/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	C:\Users\lazza\IdeaProjects\Snake\out\artifacts\Snake_jar\Snake.exe --l4j-debug
+WOW64:		yes
+Java min ver:	
+Java max ver:	
+Bundled JRE:	C:\Program Files (x86)\Java\jre1.8.0_241
+Check launcher:	C:\Program Files (x86)\Java\jre1.8.0_241\bin\javaw.exe (OK)
+Launcher:	C:\Program Files (x86)\Java\jre1.8.0_241\bin\javaw.exe
+Launcher args:	-jar "C:\Users\lazza\IdeaProjects\Snake\out\artifacts\Snake_jar\Snake.exe"
+Args length:	74/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	C:\Users\lazza\IdeaProjects\Snake\out\artifacts\Snake_jar\Snake.exe --l4j-debug
+WOW64:		yes
+Java min ver:	
+Java max ver:	
+Bundled JRE:	C:\Program Files (x86)\Java\jdk1.8.0_241
+Check launcher:	C:\Program Files (x86)\Java\jdk1.8.0_241\bin\javaw.exe (OK)
+Launcher:	C:\Program Files (x86)\Java\jdk1.8.0_241\bin\javaw.exe
+Launcher args:	-jar "C:\Users\lazza\IdeaProjects\Snake\out\artifacts\Snake_jar\Snake.exe"
+Args length:	74/32768 chars
+Exit code:	0
